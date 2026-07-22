@@ -24,8 +24,8 @@
 
 </tr>
 </table>
-------
-💫 About Me:
+
+## 💫 About Me:
 💻 Passionate **Full Stack Engineer** focused on building scalable and modern web applications.<br><br>🔥 I specialize in designing complete applications from frontend to backend using modern technologies.<br><br>🚀 I enjoy creating enterprise-level systems with clean architecture, microservices, Docker, security, and cloud technologies.<br><br>🌱 Currently expanding my knowledge in:<br><br>- Kubernetes<br>- DevOps<br>- CI/CD<br>- Azure Cloud<br>- AI Integration<br>- Microservices Architecture<br><br>🎯 My goal is to become a Senior Full Stack & Cloud Engineer working on impactful products across Europe.
 
 
