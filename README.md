@@ -1,23 +1,29 @@
-<div align="center">
+<table>
+<tr>
 
-# Hi 👋, I'm Yessin Rezgui
+<td width="60%" valign="middle">
 
-+--------------------------------------------------------------+
-| 👋 Hi, I'm Yessin Rezgui                 [ Coding GIF ]      |
-|                                                              |
-| 🚀 Full Stack Engineer | Spring Boot | Angular | DevOps       |
-|                                                              |
-| Full Stack Engineer                                          |
-| Spring Boot Developer                                        |
-| Angular Developer                                            |
-| Docker & Kubernetes                                          |
-| Cloud | DevOps Learner                                       |
-| Always Building Something Awesome!                           |
-|                                                              |
-| Profile Views                                                |
-+--------------------------------------------------------------+
+<h1>👋 Hi, I'm Yessin Rezgui</h1>
 
----
+<h3>🚀 Full Stack Engineer | Java Spring Boot | Angular | DevOps | AI Enthusiast</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=false&vCenter=true&width=500&lines=Full+Stack+Engineer;Spring+Boot+Developer;Angular+Developer;Docker+%26+Kubernetes;Cloud+%7C+DevOps+Learner;Always+Building+Something+Awesome!" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rezgui-yessin&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</td>
+
+
+<td width="40%" align="right">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+
+</td>
+
+</tr>
+</table>
 # 💫 About Me:
 💻 Passionate **Full Stack Engineer** focused on building scalable and modern web applications.<br><br>🔥 I specialize in designing complete applications from frontend to backend using modern technologies.<br><br>🚀 I enjoy creating enterprise-level systems with clean architecture, microservices, Docker, security, and cloud technologies.<br><br>🌱 Currently expanding my knowledge in:<br><br>- Kubernetes<br>- DevOps<br>- CI/CD<br>- Azure Cloud<br>- AI Integration<br>- Microservices Architecture<br><br>🎯 My goal is to become a Senior Full Stack & Cloud Engineer working on impactful products across Europe.
 
