@@ -2,21 +2,20 @@
 
 # Hi 👋, I'm Yessin Rezgui
 
-### 🚀 Full Stack Engineer | Java Spring Boot | Angular | DevOps | AI Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Spring+Boot+Developer;Angular+Developer;Docker+%26+Kubernetes;Cloud+%7C+DevOps+Learner;Always+Building+Something+Awesome!" />
-
-<br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=rezgui-yessin&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
++--------------------------------------------------------------+
+| 👋 Hi, I'm Yessin Rezgui                 [ Coding GIF ]      |
+|                                                              |
+| 🚀 Full Stack Engineer | Spring Boot | Angular | DevOps       |
+|                                                              |
+| Full Stack Engineer                                          |
+| Spring Boot Developer                                        |
+| Angular Developer                                            |
+| Docker & Kubernetes                                          |
+| Cloud | DevOps Learner                                       |
+| Always Building Something Awesome!                           |
+|                                                              |
+| Profile Views                                                |
++--------------------------------------------------------------+
 
 ---
 # 💫 About Me:
