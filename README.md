@@ -93,7 +93,7 @@
   <tr>
     <td align="center"><b>Backend</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,php&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,express,python,php&theme=dark" />
     </td>
   </tr>
   <tr>
@@ -115,18 +115,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Monitoring & Observability</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch&theme=dark" />
-    </td>
-  </tr>
-  <tr>
     <td align="center"><b>Development Tools</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,idea,vscode&theme=dark" />
     </td>
   </tr>
 </table>
+
 
 
 ## 🚀 Featured Projects
