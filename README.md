@@ -83,17 +83,51 @@
 
 ## 🧰 Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,docker,linux,aws,postgres,mysql,mongodb,git,github,bash,postman,python&theme=light" alt="Languages and Tools" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="180"><b>Frontend</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap,tailwind&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,php&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps & CI/CD</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,terraform,ansible&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud & Infrastructure</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,bash,nginx&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Monitoring & Observability</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Development Tools</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,idea,vscode&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yessin-rezgui&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  **Thanks for visiting my profile! 🚀**
-</p>
 
 ## 🚀 Featured Projects
 
