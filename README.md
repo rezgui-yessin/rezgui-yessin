@@ -81,6 +81,20 @@
 
 ---
 
+## 🧰 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,docker,linux,aws,postgres,mysql,mongodb,git,github,bash,postman,python&theme=light" alt="Languages and Tools" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yessin-rezgui&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  **Thanks for visiting my profile! 🚀**
+</p>
+
 ## 🚀 Featured Projects
 
 ### 🎓 AI-Powered Learning Management System
@@ -163,31 +177,6 @@ I'm always interested in connecting with developers, exchanging knowledge, colla
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yessin-rezgui&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
 
-## 🧰 Languages and Tools
-
-<p align="left">
-  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/></a>
-  <a href="https://angular.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="45" height="45" alt="Angular"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/></a>
-  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/></a>
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/></a>
-  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/></a>
-  <a href="https://www.postman.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yessin-rezgui&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
 
 **Thanks for visiting my profile!** 🚀
